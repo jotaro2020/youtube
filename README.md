@@ -2,7 +2,6 @@
 <br/>
 <br/>
 <h3>Если хотите потестить можете перейти <a href="https://romantic-tesla-84d036.netlify.app/">по этой ссылке </a></h3>
-<div>
-  <h5>И как всегда, котиков всем:</h5>
+
 ![tumblr_ofrc94sG1e1sjmm5ao1_400](https://user-images.githubusercontent.com/68692894/91636067-a1f07e80-ea1f-11ea-9695-25dc149cdac5.gif)
-</div>
+
